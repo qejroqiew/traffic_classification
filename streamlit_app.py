@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
   labels[0] : {"texts" : ["저건 가로등이야"], "images" : ["https://m.lightzone.co.kr/web/product/big/c20140208003452.jpg"]},
 labels[1] : {"texts" : ["저건 사람이야"], "images" : ["https://w7.pngwing.com/pngs/54/312/png-transparent-graphy-men-standing-tshirt-camera-lens-photography-thumbnail.png"]},
-labels[2] : {"texts" : ["저건 신호등이"], "images" : ["https://cdn.socialfocus.co.kr/news/photo/202112/11781_19764_1343.png"]},
+labels[2] : {"texts" : ["저건 신호등이야"], "images" : ["https://cdn.socialfocus.co.kr/news/photo/202112/11781_19764_1343.png"]},
 labels[3] : {"texts" : ["저건 자동차야"], "images" : ["https://www.goodmorningvietnam.co.kr/data/photos/20220208/art_16458354244682_c95af1.jpg"]},
 
 }
